@@ -2,7 +2,7 @@
 //  GameScene.swift
 //  Animate
 //
-//  Created by John Doe on 5/9/16.
+//  Created by Isaiah Weaver on 5/9/16.
 //  Copyright (c) 2016 Mobile Shah. All rights reserved.
 //
 
